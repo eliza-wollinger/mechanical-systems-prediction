@@ -11,3 +11,6 @@ The position predicted by the neural network.
 The prediction error throughout the simulation.
 
 By integrating physics-based simulation with time-series forecasting, this project explores the intersection between engineering, data science, and artificial intelligence.
+
+![massa-mola](https://github.com/eliza-wollinger/mechanical-systems-prediction/blob/main/folder/massa_mola_ia.gif)
+![pendulo](https://github.com/eliza-wollinger/mechanical-systems-prediction/blob/main/folder/pendulo_ia.gif)
